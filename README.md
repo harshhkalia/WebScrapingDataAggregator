@@ -13,6 +13,7 @@ A robust Python-based web scraping pipeline that extracts news and financial dat
 
 ## Tech Stack
 
+
 - **Scrapy**: High-performance web scraping framework
 - **Selenium**: Browser automation for dynamic content rendering
 - **BeautifulSoup**: HTML/XML parsing and data extraction
