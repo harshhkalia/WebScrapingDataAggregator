@@ -4,7 +4,6 @@ A robust Python-based web scraping pipeline that extracts news and financial dat
 
 ## Features
 
-
 - **Multi-website scraping**: Extracts data from multiple news and financial sources simultaneously
 - **Dynamic content handling**: Uses Selenium to render and scrape JavaScript-heavy websites
 - **Data parsing & cleaning**: Implements BeautifulSoup for efficient HTML parsing and data extraction
