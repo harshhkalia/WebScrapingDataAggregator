@@ -11,7 +11,6 @@ A robust Python-based web scraping pipeline that extracts news and financial dat
 - **Error handling**: Graceful error handling and logging for failed requests
 - **Rate limiting**: Respects website policies with configurable delays between requests
 
-
 ## Tech Stack
 
 - **Scrapy**: High-performance web scraping framework
