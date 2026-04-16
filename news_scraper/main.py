@@ -3,7 +3,6 @@ from scrapy.utils.project import get_project_settings
 from news_scraper.spiders.news_scraper import NewsSpider
 from news_scraper.spiders.financial_data_scraper import FinancialDataScraper
 
-
 def main():
     company_name = input("Enter the company name: ")
 
