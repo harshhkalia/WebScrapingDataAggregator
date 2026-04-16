@@ -1,7 +1,5 @@
 # Web Scraping Data Aggregator
 
-
-
 A robust Python-based web scraping pipeline that extracts news and financial data from multiple websites and stores it in structured JSON format for easy access and analysis.
 
 ## Features
